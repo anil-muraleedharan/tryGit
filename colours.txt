@@ -4,3 +4,4 @@ green
 black
 white
 grey
+pink
